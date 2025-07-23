@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+joblib
+docx2txt
+PyMuPDF
+textstat
+language-tool-python
+wordcloud
